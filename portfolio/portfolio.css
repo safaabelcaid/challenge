@@ -70,6 +70,11 @@ padding: 10px;
 border-radius: 10px;
 color:#033b4a;
 background-color: gray;
+<<<<<<< HEAD
+=======
+font-family: 'Paprika', cursive;
+font-size:14px ;
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
 }
 
 
@@ -151,12 +156,17 @@ header .header-content img{
     margin-left: 80px;
 
 } 
+<<<<<<< HEAD
 #contact .div1 .text {
     
 }
 
  .container p{
     margin-left: 31px;
+=======
+ .container p{
+    /* margin-left: 82px; */
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
  }
 #About hr ,#skills hr, #portfolio hr,#services hr{ 
     
@@ -178,9 +188,18 @@ header .header-content img{
 }
 #contact .text{
     margin-left: 12%;
+<<<<<<< HEAD
 }
 
 
+=======
+    width: 60%;
+}
+
+#contact .div1 .ar {
+    display: flex;
+}
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
 
 
 #contact{
@@ -188,9 +207,13 @@ header .header-content img{
     gap: 0px;
     padding: 4rem 0;
 }
+<<<<<<< HEAD
 #contact .div1 .text{
     
 }
+=======
+
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
 #contact .div1{
  margin-top: 4rem;
   display: flex;
@@ -263,18 +286,35 @@ line-height: 1.8;
      margin-top: 2rem;
      
 }
+<<<<<<< HEAD
 #skills .skills-content .row{
     display: grid;
      grid-template-columns: repeat(3, 5fr);
      text-align: center;
      gap:100px;
+=======
+#skills .skills-content .item p{
+    text-align: center;
+    align-items: center;
+    /* margin-left: 12px; */
+}
+#skills .skills-content .row{
+    display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     text-align: center;
+     gap:-9px;
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
      margin-top: 100px;
 }
 #skills .skills-content .row .item{
     transition: 700ms ease;
     
 }
+<<<<<<< HEAD
 #skills .skills-content .row .item:hover{
+=======
+#skills .skills-content .row .item{
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
 background-color: white;
    
 margin: 30px;
@@ -282,7 +322,11 @@ padding: 14px;
 border-radius: 10px;
 font-size: 18px;
 font-weight: 600;
+<<<<<<< HEAD
 color: black;
+=======
+color: rgb(23, 23, 23);
+>>>>>>> b79361a3ddff5d65ad297fd338af5fff523fb3ae
 
 }
 #portfolio .row {
